@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/counterLicciardelloMartin/static/css/main.f53d40fd.css",
+    "main.js": "/counterLicciardelloMartin/static/js/main.f5a50878.js",
+    "static/js/787.3e488829.chunk.js": "/counterLicciardelloMartin/static/js/787.3e488829.chunk.js",
+    "static/media/logo.svg": "/counterLicciardelloMartin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/counterLicciardelloMartin/index.html",
+    "main.f53d40fd.css.map": "/counterLicciardelloMartin/static/css/main.f53d40fd.css.map",
+    "main.f5a50878.js.map": "/counterLicciardelloMartin/static/js/main.f5a50878.js.map",
+    "787.3e488829.chunk.js.map": "/counterLicciardelloMartin/static/js/787.3e488829.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f53d40fd.css",
+    "static/js/main.f5a50878.js"
+  ]
+}
